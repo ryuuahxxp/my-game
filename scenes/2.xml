@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="9" extheight="544" extwidth="704" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="480" id="2" name="level three" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="640">
+    <layers>
+        <color-bg blue="128" green="0" red="128"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="3" id="32" name="pea 1" sx="1.0" sy="1.0" x="112" y="246" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="3" id="32" name="pea 2" sx="1.0" sy="1.0" x="167" y="241" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="3" id="32" name="pea 3" sx="1.0" sy="1.0" x="279" y="283" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="3" id="32" name="pea 4" sx="1.0" sy="1.0" x="316" y="279" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="3" id="30" name="ice cream 5" sx="1.0" sy="1.0" x="-53" y="259" z="0"/>
+        <actor a="0.0" aid="6" c="false" group="3" id="34" name="strawberry 6" sx="1.0" sy="1.0" x="483" y="156" z="0"/>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="6,128.0,0.0,128.0,64.0,96.0,64.0,96.0,32.0,0.0,32.0,0.0,0.0" x="128.0" y="352.0"/>
+        <p pts="4,128.0,0.0,128.0,32.0,0.0,32.0,0.0,0.0" x="288.0" y="384.0"/>
+        <p pts="8,0.0,64.0,0.0,0.0,64.0,0.0,64.0,32.0,608.0,32.0,608.0,0.0,640.0,0.0,640.0,64.0" x="0.0" y="416.0"/>
+        <p pts="12,64.0,64.0,64.0,32.0,96.0,32.0,96.0,0.0,160.0,0.0,160.0,64.0,192.0,64.0,192.0,128.0,0.0,128.0,0.0,96.0,32.0,96.0,32.0,64.0" x="416.0" y="256.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="64.0" y="384.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>
